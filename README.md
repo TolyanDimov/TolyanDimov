@@ -6,3 +6,5 @@ I'm passionate about writing clean code and learning new technologies.
 <br />
 
 ![Snake](https://github.com/TolyanDimov/TolyanDimov/blob/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
